@@ -2,7 +2,7 @@
 
  Email Subscription is a clean, minimal, and responsive newsletter subscription platform built using React.js, Tailwind CSS, and Express.js. Designed for modern web teams or product landing pages, it enables seamless email capture with real-time admin notifications using Gmail. From stylish frontend interaction to a solid backend with MongoDB integration, Email Subscription makes it easy to engage your audience and grow your newsletter list.
 
-*********************************************************************************************************************
+*******************************************************************************************************************************
 ✨ Features
 
 •📨 Email Subscription Form
@@ -17,16 +17,16 @@ Emails are stored in MongoDB, and an admin notification is sent using Nodemailer
 •⚙️ Fully Environment Configurable
 Easily control SMTP credentials and Mongo URI using. env.
 
-*********************************************************************************************************************
+*******************************************************************************************************************************
 🛠️ Technology Stack
 
-     Layer	                     Tech
-•Frontend	React.js,    Tailwind CSS, Axios, Hot Toast
+    Layer	                     Tech
+•Frontend	             React.js, Tailwind CSS, Axios, Hot Toast
 •Backend	Express.js,   Mongoose, Nodemailer, CORS
 •Database	             MongoDB (local or Atlas)
 •Styling	              Tailwind CSS
 
-*********************************************************************************************************************
+*******************************************************************************************************************************
 
 🚀 How to Run Subscribify
 
