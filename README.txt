@@ -21,8 +21,8 @@ Easily control SMTP credentials and Mongo URI using. env.
 
 🛠️ Technology Stack
                     
-•Frontend:React.js, Tailwind CSS, Axios, Hot Toast
-•Backend:Express.js, Mongoose, Nodemailer, CORS
+•Frontend:React.js,Tailwind CSS,Axios,Hot Toast
+•Backend:Express.js,Mongoose,Nodemailer, CORS
 •Database:MongoDB (local or Atlas)
 •Styling:Tailwind CSS
 
