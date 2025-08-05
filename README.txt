@@ -18,6 +18,7 @@ Emails are stored in MongoDB, and an admin notification is sent using Nodemailer
 Easily control SMTP credentials and Mongo URI using. env.
 
 *****************************************************************************************************************************
+
 🛠️ Technology Stack
 
     Layer	                     Tech
