@@ -20,12 +20,11 @@ Easily control SMTP credentials and Mongo URI using. env.
 *****************************************************************************************************************************
 
 🛠️ Technology Stack
-
-    Layer	                     Tech
-•Frontend	             React.js, Tailwind CSS, Axios, Hot Toast
-•Backend	Express.js,   Mongoose, Nodemailer, CORS
-•Database	             MongoDB (local or Atlas)
-•Styling	              Tailwind CSS
+                    
+•Frontend	: React.js, Tailwind CSS, Axios, Hot Toast
+•Backend :	Express.js, Mongoose, Nodemailer, CORS
+•Database : MongoDB (local or Atlas)
+•Styling: Tailwind CSS
 
 *****************************************************************************************************************************
 
@@ -49,17 +48,17 @@ ADMIN_EMAIL=yourgmail@gmail.com
 ADMIN_PASS=your_gmail_app_password
 
 3.Install Dependencies
-    npm install
+npm install
 
 4.Start the Server
-    npm run server
+npm run server
 
 🌐 Frontend Setup
 1.Install Frontend Dependencies
-   npm install
+npm install
 
 2.Run the Frontend
-   npm run dev
+npm run dev
 
 📸 Tailwind Initialization
 
